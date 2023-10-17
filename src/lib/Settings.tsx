@@ -12,7 +12,7 @@ const content = {
   },
   logo: "/images/logo.png",
   favicon: "/images/logo.png",
-  title: "Боловсрол сторе",
+  title: "Test",
   description: "Building Safe Future",
 };
 
